@@ -9,7 +9,7 @@
 The simplest way to list every country as a selectable dropdown 🤘
 
 ## Features
-- Display a select field with **every ISO 639-1 language**. _tl;dr: The two-letter code._
+- Display a select field with **every ISO 639-1 language + pt_BR**. _tl;dr: The two-letter code._
 - Built-in **localization** in **132** languages.
 - Supports all the native **[Select Field](https://filamentphp.com/docs/3.x/forms/fields/select)** features.
 
